@@ -16,7 +16,12 @@ This repository is designed to give you the basic files that you need to create 
 
 ### External Resources
 
-It assumes you will use external files for CSS and JS. Folders for CSS, images and JavaScript are included. You may want to name them differently or have additional folders for things like video and audio.
+It assumes you will use external files for CSS and JS. Folders for CSS, images and JavaScript are included. You may want to name them differently or have additional folders for things like video and audio. The following folders are included
+
+* __css__ : Add all of your css files here
+* __images__ : Add all of your image files here
+* __js__ : JavaScript files you write go here
+* __js/vendor__ : this is for JavaScript files you didn't write. the jQuery Library backup file is added here.
 
 ### header/main/footer elements
 
